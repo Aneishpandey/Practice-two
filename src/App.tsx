@@ -1,7 +1,7 @@
 // 🚀 MAIN APP COMPONENT - The Root of Everything
 // This is where we set up all the providers and bring everything together
 
-import React from 'react'
+
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { Provider } from 'react-redux'
 import { store } from './store/store'
